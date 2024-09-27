@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tergerys.github.io/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/app/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/assets/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/css/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/data/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/includes/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/item/sitemap.tergerys.gz
+Sitemap: https://tergerys.github.io/src/sitemap.tergerys.gz
